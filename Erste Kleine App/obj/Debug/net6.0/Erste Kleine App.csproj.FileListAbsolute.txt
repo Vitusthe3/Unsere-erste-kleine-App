@@ -1,0 +1,15 @@
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\Erste Kleine App.csproj.AssemblyReference.cache
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\Erste Kleine App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\Erste Kleine App.AssemblyInfoInputs.cache
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\Erste Kleine App.AssemblyInfo.cs
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\Erste Kleine App.csproj.CoreCompileInputs.cache
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\bin\Debug\net6.0\Erste Kleine App.exe
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\bin\Debug\net6.0\Erste Kleine App.deps.json
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\bin\Debug\net6.0\Erste Kleine App.runtimeconfig.json
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\bin\Debug\net6.0\Erste Kleine App.dll
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\bin\Debug\net6.0\Erste Kleine App.pdb
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\Erste Kleine App.dll
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\refint\Erste Kleine App.dll
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\Erste Kleine App.pdb
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\Erste Kleine App.genruntimeconfig.cache
+C:\Users\Videos\source\repos\Erste Kleine App\Erste Kleine App\obj\Debug\net6.0\ref\Erste Kleine App.dll
